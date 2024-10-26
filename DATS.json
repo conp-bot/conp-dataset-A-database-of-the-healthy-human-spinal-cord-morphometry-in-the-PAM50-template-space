@@ -1,0 +1,95 @@
+{
+    "identifier": {
+        "identifier": "https://doi.org/10.5281/zenodo.10002179",
+        "identifierSource": "DOI"
+    },
+    "title": "A database of the healthy human spinal cord morphometry in the PAM50 template space",
+    "creators": [
+        {
+            "name": "Jan Valo\u0161ek"
+        },
+        {
+            "name": "Sandrine B\u00e9dard"
+        },
+        {
+            "name": "Milo\u0161 Ke\u0159kovsk\u00fd"
+        },
+        {
+            "name": "Tom\u00e1\u0161 Rohan"
+        },
+        {
+            "name": "Julien Cohen-Adad"
+        }
+    ],
+    "description": "<p><strong>About: </strong>This dataset is a collection of tabular files containing normative values of normalized metrics of human spinal cord MRI morphological measurements &nbsp;(cross-sectional area, AP diameter, transverse diameter, compression ratio, eccentricity, and solidity) of 105 male and 98 female participants. Aggregated metrics (for provenance recording) and demographics are also provided.</p><p>Dataset provided for NeuroLibre preprint. Author repo: https://github.com/valosekj/PAM50-normalized-metrics-paper NeuroLibre fork:https://github.com/roboneurolibre/PAM50-normalized-metrics-paper</p><p>For details, please visit the corresponding <a href=\"https://github.com/neurolibre/neurolibre-reviews/issues/17\">NeuroLibre technical screening.</a></p><p><a href=\"https://neurolibre.org\"><strong>https://neurolibre.org</strong></a></p>",
+    "version": "None",
+    "licenses": [
+        {
+            "name": "cc-zero"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        },
+        {
+            "value": "neurolibre"
+        }
+    ],
+    "distributions": [
+        {
+            "formats": [
+                ".ZIP"
+            ],
+            "size": 5.0,
+            "unit": {
+                "value": "MB"
+            },
+            "access": {
+                "landingPage": null,
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://about.zenodo.org/static/img/logos/zenodo-gradient-round.svg"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "1"
+                }
+            ]
+        }
+    ],
+    "dates": [
+        {
+            "date": "2023-10-17 00:49:19",
+            "type": {
+                "value": "date created"
+            }
+        },
+        {
+            "date": "2023-10-17 00:49:19",
+            "type": {
+                "value": "date modified"
+            }
+        }
+    ],
+    "types": [
+        {
+            "value": "unknown"
+        }
+    ]
+}
